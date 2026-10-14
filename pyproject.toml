@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "easyfilenaming"
+version = "0.1.0"
+description = "按图片内容(文档标题 OCR)批量重命名图片文件的桌面工具"
+requires-python = ">=3.8,<3.13"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+easyfilenaming = ["resources/*"]

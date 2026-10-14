@@ -1,0 +1,9 @@
+# macOS 开发与打包链(现代版本;业务代码同时兼容 py3.8 冻结链)
+wxPython==4.2.1
+rapidocr-onnxruntime==1.4.4
+onnxruntime>=1.17
+opencv-python>=4.9,<4.12
+numpy>=1.26,<2.3
+Pillow>=10.2,<11.1
+PyYAML>=6.0.1
+six>=1.16

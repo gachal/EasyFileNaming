@@ -1,0 +1,9 @@
+# Windows 冻结链(python 3.8,Win7 SP1 64 位起)——版本锁死,升级视为破坏性变更(ADR-0002)
+wxPython==4.2.1
+rapidocr-onnxruntime==1.4.4
+onnxruntime==1.12.1
+opencv-python==4.10.0.84
+numpy==1.24.4
+Pillow==10.4.0
+PyYAML==6.0.1
+six==1.16.0
