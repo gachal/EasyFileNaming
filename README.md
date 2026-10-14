@@ -1,5 +1,9 @@
 # EasyFileNaming
 
+<p align="center">
+  <img src="docs/banner.png" alt="EasyFileNaming — 看图识名 · 批量重命名 · 完全离线" width="800">
+</p>
+
 按图片内容批量重命名图片文件的桌面工具(macOS + Windows,Windows 兼容 Win7 SP1 64 位)。
 
 选择文件夹 → 本地 OCR 识别(完全离线、免费)→ 预览表确认 → 批量改名 → 可一键撤销。
